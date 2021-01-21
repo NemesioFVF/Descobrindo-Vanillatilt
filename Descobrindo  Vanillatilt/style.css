@@ -1,0 +1,19 @@
+.seila {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: 500px;
+    margin: 0px auto;
+    line-height: 500px;
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    background: #287be9;
+    background: -webkit-linear-gradient(135deg, #045ed3 , #ffffff);
+    background: linear-gradient(135deg, #0680f3 , #470fca);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transform: perspective(500px);
+    transform: perspective(500px);
+    margin-bottom: 75px;
+}
